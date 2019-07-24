@@ -36,10 +36,10 @@
     position: absolute;
     float: right;
     bottom: 207px;
-    right: 213px;
+    right: 214px;
     width: 123px;
     height: 123px;
-    background: #bfb9b9;
+    background: #6b6969;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -52,7 +52,7 @@
     right: 52px;
     width: 123px;
     height: 123px;
-    background: #bfb9b9;
+    background: #6b6969;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -73,7 +73,7 @@
 .custom .bumper.pressed {
     width: 123px;
     height: 123px;
-    background: #bfb9b9;
+    background: #6b6969;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -81,7 +81,7 @@
 
 .custom .bumper.left {
     position: absolute;
-    bottom: 40px;
+    bottom: 41px;
     right: 183px;
 }
 
@@ -135,7 +135,7 @@
 .custom .button.pressed {
     width: 123px;
     height: 123px;
-    background: #bfb9b9;
+    background: #6b6969;
     border-radius: 100%;
     opacity: 1;
     display: block;
@@ -154,7 +154,7 @@
 
 .custom .x {
     top: -67px;
-    left: 402px
+    left: 401px
 }
 
 .custom .y {
